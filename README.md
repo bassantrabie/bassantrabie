@@ -1,53 +1,65 @@
-<!-- Bassant Zaki GitHub Profile -->
-
-<h1 align="center">Hello, I'm Bassant Zaki </h1>
-<h3 align="center">Biomedical Engineer | AI & Deep Learning Enthusiast | Merging Technology with Healthcare</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="Girl Coding Animation">
-</p>
-
----
-
-### 🧠 About Me  
-I'm a **Biomedical Engineering student** passionate about leveraging **AI, Deep Learning, and Computer Vision** to transform healthcare.  
-I enjoy developing intelligent systems that analyze **medical images, biomedical signals**, and real-world data for smarter clinical decisions.  
-
-- 💡 Experienced in **Machine Learning | Deep Learning | Computer Vision | Data Engineering**  
-- 🧰 Skilled with **Arduino, FSL, GLM, and Blender** for modeling and signal analysis  
-- 🌐 Proficient in **HTML, CSS, JavaScript, React, and Java** for software development  
-- 🔬 Focused on applying AI to **medical imaging and diagnostic systems**  
-- 🚀 Always exploring new ideas that connect **engineering, biology, and data**  
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/93/13/06/931306f7dfcb4692b3e5b6b4c5018e3f.gif" width="250" alt="AI Girl GIF">
+  
+  <h1>Hi, I'm <b>Bassant Zaki</b> 👋</h1>
+  <h3>🚀 Biomedical Engineer | 🧠 Deep Learning & Computer Vision Enthusiast</h3>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,scikitlearn,opencv,numpy,pandas,matplotlib,jupyter,cuda,arduino,react,html,css,js,java,git,github,linux,vscode,anaconda,blender,figma,fastapi,flask,mysql,postman,notion" />
-</p>
+### 💫 About Me  
+🎓 Biomedical Engineering student passionate about integrating AI into healthcare.  
+🩺 Experienced in chest X-ray and CT scan analysis using deep learning.  
+🧠 Currently exploring neurotechnology and medical signal processing.  
+💡 Always learning — from computer vision to brain-computer interfaces!  
 
 ---
 
-### 🎯 Current Focus  
-- Deep Learning for **medical image classification**  
-- **Signal visualization** and analysis using Python and PyQt5  
-- Integrating AI models with **PACS systems** in radiology  
-- Building full-stack healthcare tools with **Flask + React**  
+### 🧰 Tech Stack  
+
+<div align="center">
+
+#### 🧠 Deep Learning & AI  
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+
+#### 🩻 Computer Vision & Medical Imaging  
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/7919/7919799.png" title="OpenCV"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" title="Medical Imaging"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" title="AI Vision"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/3143/3143625.png" title="Brain Analysis"></code>
+
+#### 🧩 Tools & Frameworks  
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/2103/2103841.png" title="Jupyter"></code>
+
+</div>
 
 ---
 
-### 🌍 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/bassant-zaki-b49104290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Zaki-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:bassant.zaki03@eng-st.cu.edu.eg" target="_blank">
-    <img src="https://img.shields.io/badge/Email-bassant.zaki03@eng--st.cu.edu.eg-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
+### 🧠 Current Focus  
+- Developing AI models for chest X-ray diagnosis (multi-label classification).  
+- Working on PACS-integrated radiology assistant systems.  
+- Building biomedical signal viewers (ECG, EEG, EMG) in PyQt5.  
+- Exploring computational neuroscience & neurotech applications.  
 
 ---
 
-<p align="center">
-  <strong>Engineering Intelligence for Healthcare • Blending AI with Biomedical Innovation • Always Learning, Building, and Evolving</strong>
-</p>
+### 🌈 Fun Fact  
+💬 I love combining creativity and code — from signal visualization to medical AI.  
+☕ Fueled by curiosity and coffee!  
+
+---
+
+<div align="center">
+  <img src="https://i.gifer.com/origin/8a/8a4a6c17a19f2a744a28ad2d0c01521f_w200.gif" width="120" alt="Neural Network Animation">
+  <p>✨ “AI won’t replace doctors, but doctors who use AI will replace those who don’t.” ✨</p>
+</div>
