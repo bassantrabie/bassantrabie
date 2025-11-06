@@ -4,7 +4,7 @@
 <h3 align="center">Biomedical Engineer | AI & Deep Learning Enthusiast | Merging Technology with Healthcare</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Girl Coding Animation">
 </p>
 
 ---
@@ -38,10 +38,10 @@ I enjoy developing intelligent systems that analyze **medical images, biomedical
 
 ### 🌍 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/bassantzaki" target="_blank">
+  <a href="[https://www.linkedin.com/in/bassantzaki](https://www.linkedin.com/in/bassant-zaki-b49104290/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Zaki-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:bassantzaki@gmail.com" target="_blank">
+  <a href="mailto:bassant.zaki03@eng-st.cu.edu.eg" target="_blank">
     <img src="https://img.shields.io/badge/Email-bassantzaki@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
