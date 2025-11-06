@@ -4,7 +4,7 @@
 <h3 align="center">Biomedical Engineer | AI & Deep Learning Enthusiast | Merging Technology with Healthcare</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Girl Coding Animation">
+  <img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)" width="400" alt="Girl Coding Animation">
 </p>
 
 ---
@@ -49,5 +49,5 @@ I enjoy developing intelligent systems that analyze **medical images, biomedical
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DD3B0&center=true&vCenter=true&width=700&lines=Engineering+Intelligence+for+Healthcare+💡;Blending+AI+with+Biomedical+Innovation+🧬;Always+Learning%2C+Building%2C+and+Evolving+🚀" alt="Typing SVG">
+  <strong>Engineering Intelligence for Healthcare • Blending AI with Biomedical Innovation • Always Learning, Building, and Evolving</strong>
 </p>
