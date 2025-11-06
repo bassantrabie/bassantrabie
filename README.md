@@ -1,6 +1,6 @@
 <!-- Bassant Zaki GitHub Profile -->
 
-<h1 align="center">Hi, I'm Bassant Zaki 👋</h1>
+<h1 align="center">Hello, I'm Bassant Zaki </h1>
 <h3 align="center">Biomedical Engineer | AI & Deep Learning Enthusiast | Merging Technology with Healthcare</h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ I enjoy developing intelligent systems that analyze **medical images, biomedical
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,matplotlib,arduino,react,html,css,js,java,git,github,linux,vscode,anaconda,blender,figma,fastapi,flask,mysql,postman,notion" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,scikitlearn,opencv,numpy,pandas,matplotlib,jupyter,cuda,arduino,react,html,css,js,java,git,github,linux,vscode,anaconda,blender,figma,fastapi,flask,mysql,postman,notion" />
 </p>
 
 ---
