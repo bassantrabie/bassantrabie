@@ -1,33 +1,42 @@
 <!-- Bassant Zaki GitHub Profile -->
 
-<h1 align="center">Hi there, I'm Bassant Zaki 👋</h1>
-<h3 align="center">🚀 Biomedical Engineer | AI & Deep Learning Enthusiast | Innovating Healthcare through Technology</h3>
+<h1 align="center">Hi, I'm Bassant Zaki 👋</h1>
+<h3 align="center">Biomedical Engineer | AI & Deep Learning Enthusiast | Merging Technology with Healthcare</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
 ---
 
-### 🧠 About Me
-I'm a **Biomedical Engineering student** passionate about applying **Machine Learning**, **Deep Learning**, and **Computer Vision** to solve real-world healthcare challenges.  
-I love blending innovation from **AI**, **data engineering**, and **embedded systems** to build intelligent and impactful solutions.
+### 🧠 About Me  
+I'm a **Biomedical Engineering student** passionate about leveraging **AI, Deep Learning, and Computer Vision** to transform healthcare.  
+I enjoy developing intelligent systems that analyze **medical images, biomedical signals**, and real-world data for smarter clinical decisions.  
 
-- 💻 I’ve worked on **AI models for chest X-rays, CT scans**, and **medical signal visualization** tools.  
-- 🧩 Experienced in **ML | DL | CV | Data Engineering | Arduino | Blender | FSL | GLM**.  
-- 🌐 I also enjoy **front-end development** with **HTML, CSS, JavaScript, React**, and **Java**.  
-- 🎯 Currently exploring how **AI can enhance clinical decision-making**.  
+- 💡 Experienced in **Machine Learning | Deep Learning | Computer Vision | Data Engineering**  
+- 🧰 Skilled with **Arduino, FSL, GLM, and Blender** for modeling and signal analysis  
+- 🌐 Proficient in **HTML, CSS, JavaScript, React, and Java** for software development  
+- 🔬 Focused on applying AI to **medical imaging and diagnostic systems**  
+- 🚀 Always exploring new ideas that connect **engineering, biology, and data**  
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,arduino,react,html,css,js,java,git,blender" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,matplotlib,arduino,react,html,css,js,java,git,github,linux,vscode,anaconda,blender,figma,fastapi,flask,mysql,postman,notion" />
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🎯 Current Focus  
+- Deep Learning for **medical image classification**  
+- **Signal visualization** and analysis using Python and PyQt5  
+- Integrating AI models with **PACS systems** in radiology  
+- Building full-stack healthcare tools with **Flask + React**  
+
+---
+
+### 🌍 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/bassantzaki" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Zaki-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -39,14 +48,6 @@ I love blending innovation from **AI**, **data engineering**, and **embedded sys
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassantzaki&show_icons=true&theme=tokyonight" alt="Bassant's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassantzaki&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+Data+into+Intelligence+💡;Engineering+AI+for+Healthcare+❤️;Learning%2C+Building%2C+Innovating+Every+Day+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DD3B0&center=true&vCenter=true&width=700&lines=Engineering+Intelligence+for+Healthcare+💡;Blending+AI+with+Biomedical+Innovation+🧬;Always+Learning%2C+Building%2C+and+Evolving+🚀" alt="Typing SVG">
 </p>
